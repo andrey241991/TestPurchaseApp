@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestPurchaseListApp</string>
+    <string name="input_your_purchase_title">Input your purchase title</string>
+    <string name="input_your_purchase_price">Input your purchase price</string>
+    <string name="make_photo">Make Photo</string>
+    <string name="upload_photo">Upload Photo</string>
+    <string name="submit_result">Submit result</string>
+    <string name="permissions_rationale">You need this permission for continue the work with out app</string>
+    <string name="your_permission_granted">Your permission granted, try again</string>
+    <string name="input_fields_should_not_be_empty">Input fields shouldn\'t be empty, and image should be choosed</string>
+    <string name="my_purchases">My Purchases</string>
+    <string name="future_purchases">Future Purchases</string>
+</resources>

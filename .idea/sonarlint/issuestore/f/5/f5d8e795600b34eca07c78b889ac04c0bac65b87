@@ -1,0 +1,5 @@
+
+nsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(¼œóÛüÿÿÿÿ8ê²Ûğ‹-
+ˆ"squid:ClassVariableVisibilityCheck"SMake adapter a static final constant or non-public and provide accessors if needed.(È”ê8ê²Ûğ‹-
+\"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(¼œóÛüÿÿÿÿ8ê²Ûğ‹-
+]squid:S1068":Remove this unused "supportFragmentManager" private field.(çÆ‡‚ıÿÿÿÿ8ê²Ûğ‹-
